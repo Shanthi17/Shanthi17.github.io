@@ -3,11 +3,17 @@ main:
   - title: "Education"
     url: /education/    
 
+  - title: "Experience"
+    url: /experience/    
+
   - title: "Projects"
     url: /projects/
 
-  - title: "Interests"
-    url: /interests/    
-        
+  - title: "Publications"
+    url: /publications/    
+
+  - title: "Certifications"
+    url: /certifications/   
+
   - title: "Blog Posts"
     url: /year-archive/
