@@ -2,7 +2,7 @@
 title: "People Counting"
 collection: projects
 type: "Project"
-permalink: /project/people-counting
+permalink: /projects/people-counting
 date: 2020-03-01
 location: "India"
 ---
