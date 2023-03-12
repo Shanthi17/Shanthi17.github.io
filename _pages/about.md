@@ -13,9 +13,7 @@ Hello World! My name is
 
 ## I love exploring new things!
 
-I'm a Software Engineer with a goal-driven creative mindset and passion for building impactfull product for the masses.
+Pursuing my Master's in Computer Science at CU Boulder. My research interests lie mainly in the domains of Deep Learning, Computer Vision, and Machine Learning. I have almost 3 years of experience in developing cutting-edge AI technology to solve computer vision-based real-world problems. I am always interested in working on next-generation AI products and learning about new technologies.
 
-Currently working as a Senior Machine Learning Engineer at SIEMENS and as a Freelancer upwork.
-
-Outside work, I love to contribute to academia by writing meaninfull research papers and occasionally blog on Medium. Off-screen, I like to ride bikes, travel and create memories here!
+Outside work, I love to explore ongoing research and read research papers. I love listening to music!!
 
