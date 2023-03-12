@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## University of Colorado, Boulder
-M.S in Computer Science, Aug 2022 - May 2023
+M.S in Computer Science, Aug 2022 - May 2024
 * __CGPA__: 4.0/4.0
 * __Courses__: Deep Learning, Natural Language Processing, Design and Analysis of Algorithms, Foundations of Software Engineering.
 
