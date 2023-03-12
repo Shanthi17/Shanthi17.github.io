@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-Education
-======
 ## University of Colorado, Boulder
 M.S in Computer Science, Aug 2022 - May 2023
 * __CGPA__: 4.0/4.0
