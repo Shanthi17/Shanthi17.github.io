@@ -7,6 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.education %}
-  {% include archive-single.html %}
-{% endfor %}
+Education
+======
+## University of Colorado, Boulder
+M.S in Computer Science, Aug 2022 - May 2023
+* __CGPA__: 4.0/4.0
+* __Courses__: Deep Learning, Natural Language Processing, Design and Analysis of Algorithms, Foundations of Software Engineering.
+
+## Indian Institute of Technology, Tirupati, India
+Bachelors in Technology, Computer Science, Aug 2015 - April 2019
+* __CGPA__: 3.4/4.0 (8.29/10.0)
+* __Courses__: Data structures and Algorithms, Machine Learning, Image processing, Computer Vision, Artificial Intelligence, Software Engineering, Database and Management Systems, Operating Systems.
