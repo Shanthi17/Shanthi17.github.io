@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello World! My name is
-# SHANTHI LEKKALA
+Hello World! My name is SHANTHI LEKKALA
 
 ## I love exploring new things!
 
