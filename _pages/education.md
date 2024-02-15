@@ -9,8 +9,8 @@ author_profile: true
 
 ## University of Colorado, Boulder
 M.S in Computer Science, Aug 2022 - May 2024
-* __CGPA__: 4.0/4.0
-* __Courses__: Deep Learning, Natural Language Processing, Design and Analysis of Algorithms, Foundations of Software Engineering.
+* __CGPA__: 3.97/4.0
+* __Courses__: Deep Learning, Natural Language Processing, Design and Analysis of Algorithms, Foundations of Software Engineering, Computer Vision.
 
 ## Indian Institute of Technology, Tirupati, India
 Bachelors in Technology, Computer Science, Aug 2015 - April 2019
